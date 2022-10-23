@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(219, 102, 102);
+    height: 70px;
+}
+
+
+header a {
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+a {
+    color: black;
+    margin: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(77, 187, 77);
+    font-size: 50px;
+}
